@@ -1,4 +1,4 @@
-#Test Case Automation
+**Test Case Automation**
 
 Use case:- Automatically creating test cases in JIRA from the feature file scenarios and to update them automatically once they are executed using Serenity Jira workflow update feature
 
@@ -11,7 +11,7 @@ Mapping of BDD features with Manual test case
 Sernity BDD with cucumber
 
 
-#Prerequistes in Jira:-
+**Prerequistes in Jira:-**
 1. Jira setup, valid URL, credentials
 2. Create 2 new issue type in JIRA:- Test case(Sub task) ~ Scenario, Test Feature(Main Task) ~ Feature
 3. One custom field in JIRA to identify whether the scenario is automated or not. (Remember to update the custom field value in IMJiraHelper class under place holder <jira_custom_field_id> )
