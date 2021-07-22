@@ -7,6 +7,13 @@ Mapping of BDD features with Manual test case
 - Test Feature symbolizes Feature/Functionality
 - Test Sceanrio symbolizes Test case under the functionality
 
+**Workflow Diagram**
+
+![image](https://user-images.githubusercontent.com/19408058/126687060-1229e4dd-386e-473a-a5f3-db4fb0333ae1.png)
+![image](https://user-images.githubusercontent.com/19408058/126687066-0649bf25-e932-4ff3-b865-f2cb5160cc06.png)
+
+
+
 **Framework used:-** 
 Sernity BDD with cucumber
 
