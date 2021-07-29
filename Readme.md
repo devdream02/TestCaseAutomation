@@ -1,4 +1,4 @@
-**Test Case Automation**
+**Automated Test Case Creation & maintenance**
 
 Use case:- Automatically creating test cases in JIRA from the feature file scenarios and to update them automatically once they are executed using Serenity Jira workflow update feature
 
